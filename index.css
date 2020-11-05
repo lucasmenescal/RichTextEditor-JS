@@ -1,0 +1,21 @@
+
+html body {
+    background-color: white;
+    margin: 25px 25px 50px 230px;
+}
+
+body .frameborder iframe {
+    margin-top: 10px;
+
+    width: 880px;
+    height: 500px;
+
+    background-color: lightgrey;
+
+    border-radius: 10px;
+    border: 10px;
+
+    display: block;
+    margin-left: 0px;
+    margin-right: 0px;
+}
